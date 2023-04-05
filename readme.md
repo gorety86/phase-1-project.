@@ -17,5 +17,5 @@ This project is a simple one consist of a html,css and javascript file for inter
 MIT License Copyright (c) 2023 gorety86
 The source code for the lab is licensed under the MIT license, which you can find in the LICENSE.txt file.
 
-                 Check more on this  
+                 Check more on this https://github.com/gorety86/phase-1-project.
 
